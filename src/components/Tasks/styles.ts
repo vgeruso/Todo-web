@@ -9,6 +9,7 @@ export const ContainerList = styled.div`
   margin: 10px;
   flex-direction: column;
   padding: 10px;
+  min-height: 500px;
 `;
 
 export const ContainerInput = styled.div`
